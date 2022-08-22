@@ -37,18 +37,6 @@
     }
   },
   "Activity": {
-    "Steps": {
-      "Number": {
-        "TopLeftX": 30,
-        "TopLeftY": 209,
-        "BottomRightX": 118,
-        "BottomRightY": 200,
-        "Alignment": "TopRight",
-        "Spacing": 2,
-        "ImageIndex": 11,
-        "ImagesCount": 10
-      }
-    },
     "Pulse": {
       "Number": {
         "TopLeftX": 30,
@@ -61,6 +49,18 @@
         "ImagesCount": 10
       },
       "NoDataImageIndex": 85
+    },
+    "Steps": {
+      "Number": {
+        "TopLeftX": 30,
+        "TopLeftY": 209,
+        "BottomRightX": 118,
+        "BottomRightY": 200,
+        "Alignment": "TopRight",
+        "Spacing": 2,
+        "ImageIndex": 11,
+        "ImagesCount": 10
+      }
     }
   },
   "Date": {
