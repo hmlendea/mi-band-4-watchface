@@ -94,13 +94,13 @@
     "MonthAndDay": {
       "Separate": {
         "Month": {
-          "TopLeftX": -133,
+          "TopLeftX": 27,
           "TopLeftY": 82,
-          "BottomRightX": 84,
+          "BottomRightX": 116,
           "BottomRightY": 86,
           "Alignment": "TopLeft",
-          "Spacing": -85,
-          "ImageIndex": 43,
+          "Spacing": 0,
+          "ImageIndex": 53,
           "ImagesCount": 10
         },
         "Day": {
@@ -114,7 +114,7 @@
           "ImagesCount": 10
         }
       },
-      "TwoDigitsMonth": false,
+      "TwoDigitsMonth": true,
       "TwoDigitsDay": true
     },
     "WeekDay": {

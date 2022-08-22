@@ -1,1 +1,7 @@
 source/*.log
+source/*.bin
+source/*_animated_*.png
+source/*_static.png
+WatchFace.exe
+WatchFace.exe.config
+lib
