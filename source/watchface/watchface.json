@@ -52,29 +52,14 @@
     "Pulse": {
       "Number": {
         "TopLeftX": 30,
-        "TopLeftY": 151,
+        "TopLeftY": 180,
         "BottomRightX": 121,
         "BottomRightY": 200,
         "Alignment": "TopRight",
         "Spacing": 2,
         "ImageIndex": 21,
         "ImagesCount": 10
-      },
-      "NoDataImageIndex": 85
-    },
-    "Distance": {
-      "Number": {
-        "TopLeftX": 30,
-        "TopLeftY": 180,
-        "BottomRightX": 121,
-        "BottomRightY": 200,
-        "Alignment": "TopRight",
-        "Spacing": 2,
-        "ImageIndex": 31,
-        "ImagesCount": 10
-      },
-      "KmSuffixImageIndex": 41,
-      "DecimalPointImageIndex": 42
+      }
     }
   },
   "Date": {
