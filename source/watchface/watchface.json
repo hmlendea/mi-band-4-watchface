@@ -49,7 +49,7 @@
         "ImagesCount": 10
       }
     },
-    "Calories": {
+    "Pulse": {
       "Number": {
         "TopLeftX": 30,
         "TopLeftY": 151,
@@ -57,23 +57,10 @@
         "BottomRightY": 200,
         "Alignment": "TopRight",
         "Spacing": 2,
-        "ImageIndex": 108,
-        "ImagesCount": 10
-      },
-      "SuffixImageIndex": 85
-    },
-    "Pulse": {
-      "Number": {
-        "TopLeftX": 30,
-        "TopLeftY": 122,
-        "BottomRightX": 118,
-        "BottomRightY": 200,
-        "Alignment": "TopRight",
-        "Spacing": 2,
         "ImageIndex": 21,
         "ImagesCount": 10
       },
-      "NoDataImageIndex": 84
+      "NoDataImageIndex": 85
     },
     "Distance": {
       "Number": {
