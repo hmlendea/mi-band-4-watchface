@@ -59,7 +59,8 @@
         "Spacing": 2,
         "ImageIndex": 21,
         "ImagesCount": 10
-      }
+      },
+      "NoDataImageIndex": 85
     }
   },
   "Date": {
