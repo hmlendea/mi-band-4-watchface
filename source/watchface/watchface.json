@@ -66,8 +66,8 @@
   "Date": {
     "MonthAndDay": {
       "Separate": {
-        "Month": {
-          "TopLeftX": 27,
+        "Day": {
+          "TopLeftX": 1,
           "TopLeftY": 82,
           "BottomRightX": 116,
           "BottomRightY": 86,
@@ -76,8 +76,8 @@
           "ImageIndex": 53,
           "ImagesCount": 10
         },
-        "Day": {
-          "TopLeftX": 1,
+        "Month": {
+          "TopLeftX": 27,
           "TopLeftY": 82,
           "BottomRightX": 116,
           "BottomRightY": 86,
@@ -91,8 +91,8 @@
       "TwoDigitsDay": true
     },
     "WeekDay": {
-      "X": 1,
-      "Y": 102,
+      "X": 46,
+      "Y": 82,
       "ImageIndex": 63,
       "ImagesCount": 21
     }
