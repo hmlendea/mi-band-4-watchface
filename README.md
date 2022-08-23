@@ -1,5 +1,7 @@
 # Personal Xiaomi Mi Band 4 Watchface
 
+![Preview](source/watchface/watchface_packed_static.png)
+
 # Requirements
  - [MiBandWFTool 1.4.2](https://amazfitwatchfaces.com/forum/viewtopic.php?f=29&t=720) _(PaletteImageMode)_
  - [WINE](https://winehq.org) _(for being able to run MiBandWFTool on Linux)_

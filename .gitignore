@@ -1,7 +1,6 @@
 source/watchface/*.log
 source/watchface/*.bin
 source/watchface/*_animated_*.png
-source/watchface/*_static.png
 WatchFace.exe
 WatchFace.exe.config
 lib
