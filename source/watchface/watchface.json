@@ -91,7 +91,7 @@
       "TwoDigitsDay": true
     },
     "WeekDay": {
-      "X": 47,
+      "X": 0,
       "Y": 78,
       "ImageIndex": 63,
       "ImagesCount": 21
@@ -185,16 +185,6 @@
     }
   },
   "Status": {
-    "DoNotDisturb": {
-      "Coordinates": {
-        "X": 18,
-        "Y": 1,
-        "BoxWidth": 17,
-        "Alignment": "Left",
-        "Order": 1
-      },
-      "ImageIndexOn": 86
-    },
     "Lock": {
       "Coordinates": {
         "X": 1,
@@ -204,6 +194,16 @@
         "Order": 1
       },
       "ImageIndexOn": 87
+    },
+    "DoNotDisturb": {
+      "Coordinates": {
+        "X": 18,
+        "Y": 1,
+        "BoxWidth": 17,
+        "Alignment": "Left",
+        "Order": 1
+      },
+      "ImageIndexOn": 86
     },
     "Bluetooth": {
       "Coordinates": {
