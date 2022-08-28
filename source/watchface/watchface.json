@@ -187,7 +187,7 @@
   "Status": {
     "DoNotDisturb": {
       "Coordinates": {
-        "X": 1,
+        "X": 18,
         "Y": 1,
         "BoxWidth": 17,
         "Alignment": "Left",
@@ -197,7 +197,7 @@
     },
     "Lock": {
       "Coordinates": {
-        "X": 18,
+        "X": 1,
         "Y": 1,
         "BoxWidth": 17,
         "Alignment": "Left",
