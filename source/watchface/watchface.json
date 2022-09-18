@@ -105,7 +105,7 @@
       "TwoDigitsDay": true
     },
     "WeekDay": {
-      "X": 0,
+      "X": 47,
       "Y": 78,
       "ImageIndex": 70,
       "ImagesCount": 21
