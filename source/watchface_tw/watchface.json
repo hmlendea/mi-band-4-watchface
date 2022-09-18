@@ -11,13 +11,13 @@
       "Tens": {
         "X": 1,
         "Y": 20,
-        "ImageIndex": 1,
+        "ImageIndex": 10,
         "ImagesCount": 10
       },
       "Ones": {
         "X": 28,
         "Y": 20,
-        "ImageIndex": 1,
+        "ImageIndex": 10,
         "ImagesCount": 10
       }
     },
@@ -25,13 +25,13 @@
       "Tens": {
         "X": 68,
         "Y": 20,
-        "ImageIndex": 1,
+        "ImageIndex": 10,
         "ImagesCount": 10
       },
       "Ones": {
         "X": 95,
         "Y": 20,
-        "ImageIndex": 1,
+        "ImageIndex": 10,
         "ImagesCount": 10
       }
     }
@@ -45,10 +45,10 @@
         "BottomRightY": 200,
         "Alignment": "TopRight",
         "Spacing": 2,
-        "ImageIndex": 21,
+        "ImageIndex": 30,
         "ImagesCount": 10
       },
-      "NoDataImageIndex": 85
+      "NoDataImageIndex": 63
     },
     "Distance": {
       "Number": {
@@ -61,8 +61,8 @@
         "ImageIndex": 40,
         "ImagesCount": 10
       },
-      "KmSuffixImageIndex": 38,
-      "DecimalPointImageIndex": 39
+      "KmSuffixImageIndex": 88,
+      "DecimalPointImageIndex": 89
     },
     "Steps": {
       "Number": {
@@ -72,7 +72,7 @@
         "BottomRightY": 200,
         "Alignment": "TopRight",
         "Spacing": 2,
-        "ImageIndex": 11,
+        "ImageIndex": 20,
         "ImagesCount": 10
       }
     }
@@ -206,7 +206,7 @@
         "BoxWidth": 17,
         "Alignment": "Left"
       },
-      "ImageIndexOn": 31
+      "ImageIndexOn": 85
     },
     "DoNotDisturb": {
       "Coordinates": {
@@ -215,7 +215,7 @@
         "BoxWidth": 17,
         "Alignment": "Left"
       },
-      "ImageIndexOn": 32
+      "ImageIndexOn": 86
     },
     "Bluetooth": {
       "Coordinates": {
@@ -224,7 +224,7 @@
         "BoxWidth": 12,
         "Alignment": "Left"
       },
-      "ImageIndexOff": 34
+      "ImageIndexOff": 87
     },
     "Battery": {
       "BatteryConfig": {
