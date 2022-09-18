@@ -113,7 +113,7 @@
   },
   "StepsProgress": {
     "Linear": {
-      "StartImageIndex": 118,
+      "StartImageIndex": 100,
       "Segments": [
         {
           "X": 0,
@@ -245,7 +245,7 @@
       "Icon": {
         "X": 99,
         "Y": 1,
-        "ImageIndex": 100,
+        "ImageIndex": 91,
         "ImagesCount": 9
       }
     }
