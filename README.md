@@ -1,6 +1,6 @@
 # Personal Xiaomi Mi Band 4 Watchface
 
-![Preview](source/watchface/watchface_packed_static.png) ![Preview T&W](source/watchface_tw/watchface_packed_static.png)
+![Preview](source/watchface/watchface_packed_static.png) ![Preview T&W](source/watchface_tw/watchface_packed_static.png) ![Preview Lime](source/watchface_lime/watchface_packed_static.png)
 
 # Requirements
  - [MiBandWFTool 1.4.2](https://amazfitwatchfaces.com/forum/viewtopic.php?f=29&t=720) _(PaletteImageMode)_
